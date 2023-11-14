@@ -1,6 +1,6 @@
 # EACOP_Path
 Starting with background info:
-The East African Crude Oil Pipeline (EACOP), also known as the Uganda-Tanzania Crude Oil Pipeline (UTCOP) is under construction and intended to transport crude oil from Uganda's oil fields to the Port of Tanga, Tanzania on the Indian Ocean. Once completed the pipeline will be the longest heated crude oil pieline in the world
+The East African Crude Oil Pipeline (EACOP), also known as the Uganda-Tanzania Crude Oil Pipeline (UTCOP) is under construction and intended to transport crude oil from Uganda's oil fields to the Port of Tanga, Tanzania on the Indian Ocean. Once completed the pipeline will be the longest heated crude oil pieline in the world \n
 
 As a part of the semester project, we were tasked that as if each of us is an engineer in the process engineering team dealing with pipeline design, where I and my teammate was the one being responsible for establishing optimum route by taking into following points:
 • To minimise the economic costs and environmental damage, the length of the pipeline has to be 

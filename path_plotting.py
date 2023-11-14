@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
-from pipe1 import binary_matrix
-from pipe1 import trajectory
-from pipe1 import *
+from coloring_impassable import binary_matrix
+from coloring_impassable import trajectory
+from coloring_impassable import *
 # Create a figure and axis
 
 matrix=binary_matrix
